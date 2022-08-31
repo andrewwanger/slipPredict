@@ -1,0 +1,2 @@
+cyclesPredict is a ipynb predictor and classifier made with sci-kit learn to first classify the type of material something is given by a time series, followed with a regressor to predict speed given that the initial prediction of material was correct. 
+Machine Learning techniques implemented and used contatain Random Forest Regressors, Random Forest Classifiers, One Hot Encoding, Pipelines, and Cross Validation. 
